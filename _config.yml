@@ -1,0 +1,14 @@
+layout_spectrum: 0.7465155371464789
+typography_spectrum: 0.5291208070702851
+color:
+  brandStrength: 0.12664664559997618
+  lightness: 0.33299029688350856
+  saturation: 0.615473534213379
+  rhythmicContrast: 0.894127116072923
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: '@gadiibleu'
